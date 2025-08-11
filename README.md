@@ -6,7 +6,7 @@ Welcome to the **50 Python Practice Questions** repository! This collection is p
 
 ## 📘 What's Inside
 
-You'll find 50 Python problems, each with:
+You'll find 100 Python problems, each with:
 - A clear **problem statement**
 - A complete **Python solution**
 
