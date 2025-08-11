@@ -1,4 +1,4 @@
-# 🐍 50 Python Practice Questions with Solutions
+# 🐍 100 Python Practice Questions with Solutions
 
 Welcome to the **50 Python Practice Questions** repository! This collection is perfect for beginners and intermediate Python programmers who want to improve their understanding of Python concepts through hands-on practice.
 
@@ -19,5 +19,3 @@ The problems cover a variety of topics:
 - 🎯 Miscellaneous mini challenges
 
 ---
-
-## 🗂 Folder Structure
